@@ -1,6 +1,11 @@
 const nome = 'Gabriel';
 
-function nomeFala() {
+function falaNome() {
     console.log(nome);
 }
-nomeFala();
+
+function usaFalaNome() {
+    const nome = 'Otávio';
+    falaNome();
+}
+usaFalaNome();
