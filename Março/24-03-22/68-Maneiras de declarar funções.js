@@ -29,3 +29,4 @@ const obj = {
     }
 };
 obj.falar();
+
