@@ -14,9 +14,15 @@
         "função",
         "metodo",
         "Objetos",
+        "preco",
         "primeira"
     ],
     "cSpell.enableFiletypes": [
         "javascript"
-    ]
+    ],
+    "window.zoomLevel": 1,
+    "window.titleSeparator": "0",
+    "editor.fontSize": 14,
+    "editor.accessibilityPageSize": 1,
+    "editor.codeLensFontSize": 0
 }
