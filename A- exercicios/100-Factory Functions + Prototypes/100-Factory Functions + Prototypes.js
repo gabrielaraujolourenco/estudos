@@ -6,6 +6,7 @@ const falar = {
   
   const comer = {
     comer() {
+        
       console.log(`${this.nome} está comendo.`);
     },
   };
