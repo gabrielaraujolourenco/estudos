@@ -20,6 +20,7 @@
     "cSpell.enableFiletypes": [
         "javascript"
     ],
+    
     "window.zoomLevel": 1,
     "window.titleSeparator": "0",
     "editor.fontSize": 14,
