@@ -7,6 +7,8 @@ class Pessoa {
   falar () {
     console.log(`${this.nome}`)
   }
+
+
   
   comer () {
 
